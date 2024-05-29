@@ -66,17 +66,17 @@ INSERT INTO `citasServicios` (`id`, `citaId`, `servicioId`) VALUES
 (18, 22, 2);
 
 INSERT INTO `servicios` (`id`, `nombre`, `precio`) VALUES
-(1, 'Corte de Cabello Mujer ACTUALIZADO', 120.00),
-(2, 'Corte de Cabello Hombre', 80.00),
-(3, 'Corte de Cabello Niño', 60.00),
-(4, 'Peinado Mujer', 80.00),
-(5, 'Peinado Hombre', 60.00),
-(6, 'Peinado Niño', 60.00),
-(7, 'Corte de Barba', 60.00),
-(8, 'Tinte Mujer', 300.00),
-(9, 'Uñas', 400.00),
-(10, 'Lavado de Cabello', 50.00),
-(11, 'Tratamiento Capilar', 150.00);
+(1, 'PROJECT ZOMBOID', 25.00),
+(2, 'God of War', 85.00),
+(3, 'Ultra Street Fighter IV', 20.00),
+(4, 'Mortal Kombat 11 Ultimate', 25.00),
+(5, 'DRAGON BALL Z: KAKAROT Deluxe Edition', 80.00),
+(6, 'Hogwarts Legacy', 150.00),
+(7, 'Batman: Arkham Collection', 40.00),
+(8, 'Back 4 Blood', 35.00),
+(9, 'TEKKEN 7 - Originals Edition', 50.00),
+(10, 'DARK SOULS III', 95.00),
+(11, 'Forager', 7.00);
 
 INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `email`, `password`, `telefono`, `admin`, `confirmado`, `token`) VALUES
 (9, ' Juanm', 'De la torre', 'correo@correo.com', '$2y$10$9TTiKdZXQaUQaSbVKd7wPOucLusU8ebkv2h2IgqNjQXs.uLTW7CAq', '1234567890', 0, 1, '');
