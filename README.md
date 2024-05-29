@@ -10,8 +10,7 @@ Asegúrate de tener instalado Node.js y PHP en tu sistema antes de continuar.
 
 3. Ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
-   npm install
-   *
+   npm install    Y 
    npm run dev
 
 ## Uso
