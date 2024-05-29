@@ -76,7 +76,7 @@ INSERT INTO `servicios` (`id`, `nombre`, `precio`) VALUES
 (8, 'Back 4 Blood', 35.00),
 (9, 'TEKKEN 7 - Originals Edition', 50.00),
 (10, 'DARK SOULS III', 95.00),
-(11, 'Forager', 7.00);
+(11, 'Forager', 8.00);
 
 INSERT INTO `usuarios` (`id`, `nombre`, `apellido`, `email`, `password`, `telefono`, `admin`, `confirmado`, `token`) VALUES
 (9, ' Aldair', 'Maquera Andrade', 'correo@correo.com', '$2y$10$9TTiKdZXQaUQaSbVKd7wPOucLusU8ebkv2h2IgqNjQXs.uLTW7CAq', '123456789', 0, 1, '');
