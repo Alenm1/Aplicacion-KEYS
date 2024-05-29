@@ -23,7 +23,8 @@ Asegúrate de tener instalado Node.js y PHP en tu sistema antes de continuar.
 
 6. Accede a la web  `http://localhost:3000`.
 
-# Extra
+## Observación
 
-Existe un archivo "appsalon_mvc_php.sql" es la base de datos utilizada pero se puede reemplazar, para ello tambien se debe reempalza en el codigo el root, contraseña y nueva data
+Existe un archivo "appsalon_mvc_php.sql" que es la base de datos utilizada, pero se puede reemplazar. Para ello, también se debe reemplazar en el código el root, contraseña y nueva data.
+
 
