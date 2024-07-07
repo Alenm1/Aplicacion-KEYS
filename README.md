@@ -11,7 +11,7 @@ Asegúrate de tener instalado Node.js y PHP en tu PC
 3. Ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
    npm install  
-   npm run dev
+   npm run gulp
 
 ## Uso
 
